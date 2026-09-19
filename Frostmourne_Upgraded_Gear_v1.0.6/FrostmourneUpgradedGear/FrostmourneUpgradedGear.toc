@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: Frostmourne Upgraded Gear
+## Notes: Standalone Frostmourne/Rebuffed upgrade previews, alerts and loot statistics.
+## Author: Sacha + ChatGPT
+## Version: 1.0.6
+## SavedVariables: FrostmourneUpgradedLookDB
+
+VariantDB.lua
+BaseDB.lua
+Locale.lua
+Core.lua
+Stats.lua
+Tracker.lua
+Tooltip.lua
+UpgradeAlert.lua
+Export.lua
+UI.lua
